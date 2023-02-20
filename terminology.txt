@@ -1,0 +1,57 @@
+1. What do HTML and CSS stand for? 
+  answer: HTML - Hypertext Markup Language.  CSS - Cascading stylesheet.
+2. Would you rather use HTML or CSS, for putting paragraphs of text on a webpage? 
+  answer: HTML.
+3. Would you rather use HTML or CSS, to change the font and background color of a button?
+  answer: CSS.
+4. What is an HTML tag? 
+  answer: HTML tags aree key words that define how browser will display the content.
+5. What are the three parts of an HTML element? (image from paragraph) 
+  answer: Opening tag, the attributes and the closing tag. <div(opening)> attribute </div(closing)> .
+6. What is the purpose of the doctype declaration?
+   answer: The doctype tells the browser what version of HTML we are using.
+7. What is the HTML element?
+  answer: The HTML element is everything from the start tag to the end tag.
+8. What is the purpose of the head element? 
+  answer: the <head> element is a container for meta data and can containe the following elements:
+         <title>, <style>, <meta>, <link>, <script>, and <base>.
+9. What is the purpose of the body element?
+  answer: The <body> element contains all the contentents of an HTML document.
+10. How do you create a paragraph in HTML?
+  answer: The <p> element.
+11. How do you create a heading in HTML?
+  answer: The <h> element.
+12. How many different levels of headings are there and what is the difference between them?
+  answer: There are 6 levels of headings. all with different font size and weight. <h1> being the largest and <h6> the smallest.
+13. What element should you use to make text bold and important?
+  answer:  The <strong> </strong> tag.
+14. What element should you use to make text italicized to add emphasis to it?
+  answer: The <em> </em> tag.
+15. What relationship does an element have with any nested elements within it?
+ answer: It is a parent child relationship.
+16. What relationship do two elements have if they are at the same level of nesting?
+   answer: They are siblings of each other.
+17. How do you create HTML comments?
+  answer: By using <!-- comment -->.
+18. What HTML tag is used to create an unordered list?
+  answer: By using the <ul> </ul> tags.
+19. What HTML tag is used to create an ordered list?
+  answer: By using the <ol> </ol> tags.
+20. What HTML tag is used to create list items within both unordered and ordered lists?
+  answer: By using the <li> </li> tags.
+21. What element is used to create a link?
+  answer: By using the <a> </a> tags.
+22. What is an attribute?
+  answer: href="".
+23. What attribute tells links where to go?
+  answer: The value of the href=" ./value or Url "
+24. What is the difference between an absolute and relative link?
+  answer: An absolute link points to another website. A relative link points to a file within the website or local file tree.
+25. Which element is used to display an image?
+  answer: The <img src="" alt="" /> element.
+26. What two attributes do images always need to have? 
+  answer: <img> tag always has a src="" and alt="" attribute.
+27. How do you access a parent directory in a file path?
+  answer: By using " ./ " in a file path. 
+28. What are the four main image formats that you can use for images on the web?
+  answer: JPEG, PNG, WebP, SVG and GIF
